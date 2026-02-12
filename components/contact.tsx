@@ -97,7 +97,7 @@ export function ContactInfo() {
 
           {/* Instagram */}
           <a
-            href="https://instagram.com/stillline.arq"
+            href="https://instagram.com/stilline_students"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex flex-col gap-4 bg-background p-8 transition-colors hover:bg-accent/5"
@@ -110,7 +110,7 @@ export function ContactInfo() {
                 Instagram
               </p>
               <p className="mt-2 text-foreground font-medium">
-                @stillline.arq
+                @stilline_students
               </p>
             </div>
             <p className="text-xs text-muted-foreground">
